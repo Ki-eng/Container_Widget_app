@@ -1,16 +1,19 @@
-# container_widget_app
+# Flutter Container Widget App
 
-A new Flutter project.
+A simple Flutter app demonstrating the use of the `Container` widget to style and position a child widget. The app displays a "Hello World" message inside a container with padding, margin, and a custom background color.
 
-## Getting Started
+## 📋 Features
 
-This project is a starting point for a Flutter application.
+- **Container Widget**: Wraps the text widget and applies padding, margin, and background color.
+- **Text Styling**: Displays "Hello World" with white color and a font size of 18.
+- **Layout**: Centers the container using the `Center` widget inside a `SafeArea`.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter Framework**  
+- **Dart Programming Language**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter-container-widget-app.git
